@@ -17,3 +17,11 @@ specific part of a drawing. The themes to choose for this project were wheater o
 
 I chose to try and work with the retro games theme for this, and was inspired by the game _Snake_. My function drew the apples that appear, and I utilized the rotate function to create an apple shape with ellipses. Then
 I used the scale function to make the apples increase in size. To create the snake I used arrays that utlized the mouse's position, and then displaced it to create a trailing body.
+
+### Assignment-10
+The goal of this assignment was to find an extended p5.js library and use three unique functions from that library in your project. 
+
+The extended library I chose to use for this assignment was [p5.Polar](https://github.com/liz-peng/p5.Polar), which adds functions that allow you to create shapes that use a circle to determine their position. There are also
+functions that allow you to create multiple shapes around the circle, making it easier to create things like optical illusions. I used the single shape functions, specifcally polygon, square, ellipse, and triangle, to draw
+most of the shapes in my project instead of the functions incoporated in p5.js already that draw them. I did this to work with the library as much as I could. I then used one of the multiple shape fuctions to add interest to the drawing so it was not just a mask on a solid background. There was no specific theme proposed for this assignment, so I tried to draw the character Clem from [_Warframe_](https://www.warframe.com/?utm_source=adwords&utm_campaign=20408101164&utm_term=151521101003&utm_content=682630274386&gsc=1&utm_medium=g_5651636&gad_source=1&gclid=CjwKCAiA3Na5BhAZEiwAzrfagJQpATwe7x5OBrKFT3R3ClR6E5sOW3grTjT6HTB0TR8g7XpG5RTYHxoCVVsQAvD_BwE&wbraid=Cj4KCAiA3Na5BhBWEi4A_blCuiROXatq43njc0pfIAS_m4YWDbf-WEeT1EGhFJ8D3LmnwpvK1MPYan9YGgIt8Q) through coding. 
+
