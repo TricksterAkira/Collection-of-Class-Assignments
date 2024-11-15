@@ -11,3 +11,9 @@ The third button, which is the application in the top left corner of the desktop
 Each of these buttons then open up shapes that mimick windows or applications that could be found on an actual desktop. 
 
 ### Assignment-7
+The goal of this assignment was to learn to create our own function that drew a shape that was a combonation of shapes, and create a function that returned a value then print that to the console. Then we had to create a loop
+to make multiple copies of the drawing. We also had to use other functions to update aspects of the drawing created by the function. Another goal was to learn how to use the push and pop functions, to isolate changes to a 
+specific part of a drawing. The themes to choose for this project were wheater or retro games, which I chose the latter. 
+
+I chose to try and work with the retro games theme for this, and was inspired by the game _Snake_. My function drew the apples that appear, and I utilized the rotate function to create an apple shape with ellipses. Then
+I used the scale function to make the apples increase in size. To create the snake I used arrays that utlized the mouse's position, and then displaced it to create a trailing body.
